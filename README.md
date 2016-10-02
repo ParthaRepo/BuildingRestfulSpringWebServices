@@ -1,1 +1,1 @@
-# BuildingRestfulSpringWebServices
+# BuildingRestfulSpringWebServices for learning purpose
