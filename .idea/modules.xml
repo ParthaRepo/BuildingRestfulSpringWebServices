@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BuildingRestfulSpringWebServices.iml" filepath="$PROJECT_DIR$/.idea/BuildingRestfulSpringWebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildingRestfulSpringWebServices.iml" filepath="$PROJECT_DIR$/BuildingRestfulSpringWebServices.iml" />
     </modules>
   </component>
 </project>
